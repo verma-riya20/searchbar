@@ -14,11 +14,13 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-
+    background-image: url("images/A design about shopping cart shopping bags and clo.jpg");
+    backdrop-filter: blur(1px);
+    background-size: cover;
 }
 .container{
-    width:300px;
-    height: 520px;
+    width:400px;
+    height: 620px;
     background: white;
     border-radius: 15px;
     box-shadow: 4px 4px 30px rgba(0,0,0,0.06);
